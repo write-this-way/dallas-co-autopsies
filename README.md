@@ -1,14 +1,16 @@
-# dallas-co-autopsies
-Dallas Co. autopsy data for NICAR Data Blitz
+# Dallas Co. autopsy data for NICAR Data Blitz
 
-# Redacted fields:
+# About the data 
+The following fields were redacted in order to make this data publicly available: 
+
 * Case number
 * Decedent
 * Primary medical examiner
 * COD/Manner medical examiner
 
-# About the data 
+# Getting the data
 
+## I've got the data. Now what?
 
 # Working with the data 
 * Cleaning
@@ -16,10 +18,14 @@ Dallas Co. autopsy data for NICAR Data Blitz
 * Filtering & analysis 
 
 # Limitations of the data
-## Types of deaths that can be analyzed
+* Types of deaths that can be analyzed
 
 # Troubleshooting the data
+* Accuracy 
+* "Interviewing" the data
 
-# What can I do with this data?
+## Potential projects
+
+# Secrets of Dallas' dead
 https://interactives.dallasnews.com/2018/secrets-dallas-dead/
 
