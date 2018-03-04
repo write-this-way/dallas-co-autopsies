@@ -1,6 +1,5 @@
-# Dallas Co. autopsy data for NICAR Data Blitz
+# Dallas Co. autopsy data for NICAR 2018 Data Blitz
 
-# About the data 
 The following fields were redacted in order to make this data publicly available: 
 
 * Case number
@@ -8,9 +7,9 @@ The following fields were redacted in order to make this data publicly available
 * Primary medical examiner
 * COD/Manner medical examiner
 
-# Getting the data
+# About the data 
 
-## I've got the data. Now what?
+# Getting the data
 
 # Working with the data 
 * Cleaning
@@ -24,8 +23,8 @@ The following fields were redacted in order to make this data publicly available
 * Accuracy 
 * "Interviewing" the data
 
-## Potential projects
+# Potential projects
 
-# Secrets of Dallas' dead
+## Secrets of Dallas' dead
 https://interactives.dallasnews.com/2018/secrets-dallas-dead/
 
