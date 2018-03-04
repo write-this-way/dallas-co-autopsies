@@ -2,18 +2,18 @@
 Dallas Co. autopsy data for NICAR Data Blitz
 
 # Redacted fields:
-## Case number
-## Decedent
-## Primary medical examiner
-## COD/Manner medical examiner
+* Case number
+* Decedent
+* Primary medical examiner
+* COD/Manner medical examiner
 
 # About the data 
 
 
 # Working with the data 
-## Cleaning
-## Formatting
-## Filtering & analysis 
+* Cleaning
+* Formatting
+* Filtering & analysis 
 
 # Limitations of the data
 ## Types of deaths that can be analyzed
