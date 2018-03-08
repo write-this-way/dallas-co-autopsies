@@ -8,8 +8,10 @@ The following fields were redacted in order to make this data publicly available
 * COD/Manner medical examiner
 
 # About the data 
+The data is comprised of about 18,000 records. It is every person who died in Dallas County from 2012-17.
 
 # Getting the data
+The data was obtained from the Dallas County medical examiner's office, formally known as the Southwestern Institute of Forensic Sciences.
 
 # Working with the data 
 * Cleaning
